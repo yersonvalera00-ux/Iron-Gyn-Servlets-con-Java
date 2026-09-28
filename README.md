@@ -13,21 +13,21 @@
 Este módulo permite realizar la gestión integral (Crear, Leer, Actualizar y Eliminar) de los socios del gimnasio Iron Habit Gym. Implementa una arquitectura Java Web clásica basada en el patrón MVC (Modelo-Vista-Controlador), separando la lógica de acceso a datos (DAO), el controlador (Servlet) y la presentación (JSP).
 
 ## 🛠️ Tecnologías Utilizadas
-* **Lenguaje: Java (JDK 11 / 17)
+* Lenguaje: Java (JDK 11 / 17)
 
-* **Tecnología Web: Java Servlets & JavaServer Pages (JSP)
+* Tecnología Web: Java Servlets & JavaServer Pages (JSP)
 
-* **Librerías / Elementos JSP: JSTL (JavaServer Pages Standard Tag Library) y Expression Language (EL ${...})
+* Librerías / Elementos JSP: JSTL (JavaServer Pages Standard Tag Library) y Expression Language (EL ${...})
 
-* **Servidor de Aplicaciones: Apache Tomcat 9.0 / 10.0
+* Servidor de Aplicaciones: Apache Tomcat 9.0 / 10.0
 
-* **Base de Datos: MySQL / MariaDB
+* Base de Datos: MySQL / MariaDB
 
-* **Conector BD: MySQL Connector/J (JDBC Driver)
+* Conector BD: MySQL Connector/J (JDBC Driver)
 
-* **IDE Recomendado: Eclipse IDE for Enterprise Java and Web Developers
+* IDE Recomendado: Eclipse IDE for Enterprise Java and Web Developers
 
-* **Control de Versiones: Git & GitHub
+* Control de Versiones: Git & GitHub
 
 ## 💻 2. Instrucciones para Importar y Ejecutar en Eclipse
 Importar el proyecto:
@@ -57,4 +57,4 @@ Selecciona el servidor Tomcat configurado y presiona Finish.
 Acceso a la Aplicación:
 Abre tu navegador web e ingresa a la siguiente URL:
 
-* **[link](http://localhost:8080/IronHabitGymWeb/socios?accion=listar)
+* **[link](http://localhost:8080/IronHabitGymWeb/socios?accion=listar) http://localhost:8080/IronHabitGymWeb/socios?accion=listar
